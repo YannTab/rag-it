@@ -1,2 +1,2 @@
 # rag-it
-Web search summarization using retrieval augmented generation and language model
+Using BERT for retrieving entities and sentiment in Social Network's comments
